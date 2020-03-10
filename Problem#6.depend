@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1583834510 source:e:\projects\c++ projects\problem#6\main.cpp
+1583863387 source:e:\projects\c++ projects\problem#6\main.cpp
 	<iostream>
 	<StudentName.h>
 
-1583835010 source:e:\projects\c++ projects\problem#6\src\studentname.cpp
+1583855556 e:\projects\c++ projects\problem#6\include\studentname.h
+	<string>
+
+1583863626 source:e:\projects\c++ projects\problem#6\src\studentname.cpp
 	"StudentName.h"
 	<iostream>
 	<cstring>
-
-1583834122 e:\projects\c++ projects\problem#6\include\studentname.h
-	<string>
 

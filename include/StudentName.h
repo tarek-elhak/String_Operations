@@ -9,7 +9,9 @@ class StudentName
         StudentName(string);
         ~StudentName();
         void setName(string);
+        void print();
         string getName();
+        bool replace (int,int);
     protected:
 
     private:
